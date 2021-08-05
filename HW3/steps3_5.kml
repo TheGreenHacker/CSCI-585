@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Folder>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+</Style>
+<Placemark><name>Home</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28421401542461,34.03229997902043</coordinates></Point>
+</Placemark>
+<Placemark><name>Campus Activity</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2861445019307,34.020726052181594</coordinates></Point>
+</Placemark>
+<Placemark><name>Gould</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28428208711514,34.0188135505108</coordinates></Point>
+</Placemark>
+<Placemark><name>Asian Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28371451712718,34.0202452899158</coordinates></Point>
+</Placemark>
+<Placemark><name>Career Center</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28578738143105,34.020378235920916</coordinates></Point>
+</Placemark>
+<Placemark><name>Tutor Center</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28633644370201,34.02047538863911</coordinates></Point>
+</Placemark>
+<Placemark><name>Tommy Trojan</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28542956556906,34.02067992031394</coordinates></Point>
+</Placemark>
+<Placemark><name>Salvatori Hall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28805766138291,34.021385550808795</coordinates></Point>
+</Placemark>
+<Placemark><name>Taper Hall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28455353363111,34.02233149552958</coordinates></Point>
+</Placemark>
+<Placemark><name>Town and Gown</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28423273320313,34.019237961495605</coordinates></Point>
+</Placemark>
+<Placemark><name>Leavey Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28279530051624,34.021809948933424</coordinates></Point>
+</Placemark>
+<Placemark><name>Transportation</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28243131541525,34.02060833428381</coordinates></Point>
+</Placemark>
+<Placemark><name>Ronald Hall</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28952594026482,34.020219723352476</coordinates></Point>
+</Placemark>
+<Placemark>
+<visibility>0</visibility>  
+<Polygon>
+<altitudeMode>relativeToGround</altitudeMode>
+<outerBoundaryIs>
+<LinearRing>
+<coordinates>
+-118.28428208711514,34.0188135505108,30.0
+-118.28952594026482,34.020219723352476,30.0
+-118.28421401542461,34.03229997902043,30.0
+-118.28243131541525,34.02060833428381,30.0
+-118.28428208711514,34.0188135505108,30.0
+</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>-118.28421401542461,34.03229997902043 -118.28455353363111,34.02233149552958</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<!--  <visibility>0</visibility> -->
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>-118.28421401542461,34.03229997902043 -118.28279530051624,34.021809948933424</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>-118.28421401542461,34.03229997902043 -118.28805766138291,34.021385550808795</coordinates>
+</LineString>
+</Placemark>
+<Placemark>
+<LineString>
+<extrude>1</extrude>
+<tessellate>1</tessellate>
+<coordinates>-118.28421401542461,34.03229997902043 -118.28542956556906,34.02067992031394</coordinates>
+</LineString>
+</Placemark>
+</Folder>
+</kml>
